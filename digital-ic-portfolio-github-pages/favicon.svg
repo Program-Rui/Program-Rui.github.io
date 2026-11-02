@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
-  <rect width="80" height="80" rx="16" fill="#0a1526"/>
-  <rect x="7" y="7" width="66" height="66" rx="12" fill="none" stroke="#365675" stroke-width="2"/>
-  <text x="10" y="51" font-family="system-ui,sans-serif" font-size="35" font-weight="800" fill="#f0f7ff">YH</text>
-  <circle cx="65" cy="55" r="5" fill="#71d5f4"/>
-</svg>
